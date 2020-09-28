@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void funcao()
+{
+    pritnf("Teste\n");
+}
+
 int main ()
 {
     int n, i = 1;

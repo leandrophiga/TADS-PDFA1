@@ -1,0 +1,6 @@
+Na letra A as variáveis devem estar entre chaves e ao final um ponto e vírgula.
+Na letra B deve haver ponto e vírgula entre 'double x' e 'double y'.
+Na letra C deve haver ponto e vírgula ao final da chaves.
+Na letra D há um ponto e vírgula após 'double y' que não deve ter.
+Na letra E há um ponto e vírgula após 'double y' que não deve ter e falta um ao final da chaves.
+

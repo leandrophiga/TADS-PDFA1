@@ -1,0 +1,5 @@
+No programa do exercício 2 da tarefa 3, será impresso na tela o número de caracteres digitado
+até que o caractere digitado seja o ENTER (em decimal 10).
+Logo, ao escrever "Salve o Palmeiras!" o programa imprimirá na tela o número 18.
+
+Vale notar que quando escrevemos "Palmeiras nao tem mundial!" o programa imprimirá o número 26.

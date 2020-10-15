@@ -1,0 +1,7 @@
+- Define 'N' como uma constante de valor igual a 4;
+- Cria um tipo de variável composta heterogênea com nome e notas de matérias chamada student;
+- Cria uma variável student com o nome data de tamanho N com valores definidos;
+- Inicia a função 'main';
+- Cria a variável i;
+- Realiza um ciclo 'for' que segue de 0 a N imprimindo o nome e as notas de cada linha;
+- Retorna 0 na função 'main';

@@ -1,0 +1,6 @@
+a)
+No primeiro programa 'p' foi instruído a guardar o valor da variável 'x', mas deveria ser instruído para apontar para o endereço de memória de 'x' (p = &x). Além disso, se a variável que realmente deveria ser impressa fosse 'p', o endereço de memória de 'x', não deveria ser '*p' como variável no printf, e sim 'p' apenas.
+b)
+Não consigo identificar o porquê do erro, mas sei que é devido a variável ponteiro 'temp', ao tentar gravar um valor diretamente no endereço de memória apontada por 'temp'. Esse problema se resolve ao, antes de pedir para gravar um valor, fazer com que o apontador 'temp' aponte para alguma outra variável.
+c)
+Aqui as instruções estão pedindo para gravar nas variáveis ponteiros 'a' e 'b' duas strings, quando o correto seria gravar no endereço de memória apontados por 'a' e 'b' as strings.

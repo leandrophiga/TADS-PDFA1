@@ -1,0 +1,1 @@
+Se a posição 0 do vetor tem o endereço 55000, e cada posição contém 8 bytes, o valor de v + 3 será igual a 55024.

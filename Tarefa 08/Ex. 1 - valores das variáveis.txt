@@ -1,0 +1,9 @@
+Após a declaração das variáveis, as seguintes instruções serão realizadas:
+- a variável 'p' apontará para o endereço de memória da variável 'y';
+- o valor de 'x' será o valor que se encontra na variável apontada por 'p', logo será o valor de 'y';
+- o 'x' passa a ter um valor de 4;
+- o valor apontado por 'p', que é o 'y', será seu valor incrementado para 1;
+- o valor de 'x' terá um decremento para 3;
+- o valor apontado por 'p', que é 'y', terá seu valor incrementado por 'x', logo passará a ser 4.
+
+Dessa forma, 'x' terá o valor de 3, 'y' terá o valor de 4 e 'p' apontará para o valor de endereço de 'y'.
